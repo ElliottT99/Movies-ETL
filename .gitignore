@@ -1,8 +1,10 @@
-#adding Resources CSVs
-Resources/
+
 
 #adding test .ipynb files
 Movie_ETL_Test.ipynb
+
+#adding config
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
